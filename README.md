@@ -1,2 +1,0 @@
-# senswatch
-Sens Watch project
