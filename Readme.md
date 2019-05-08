@@ -17,9 +17,9 @@ This project  can parse the .txt file of SensOmics watch. And we can obtain the 
 >>>**senswatch.py(senswatch.pyc)**:&nbsp;&nbsp;&nbsp;Parsing the  data.  
 >>>
 >>>*test*  
->>>>**test_senswatch.py**:&nbsp;&nbsp;&nbsp; A test sample.
+>>>>**test_senswatch.py**:&nbsp;&nbsp;&nbsp; A test sample.  
 >>>>**sens_test_data.txt**:&nbsp;&nbsp;&nbsp; A .txt file for testing.
->>  
+
 ***
 
 ## senswatch.py (senswatch.pyc)
